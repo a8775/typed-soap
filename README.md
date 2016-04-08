@@ -2,8 +2,8 @@
 
 `soap` typing for node.js. Please refer to the following projects:
 
-- 
-- 
+- [https://github.com/DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)
+- [https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/soap](https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/soap)
 
 This is a test project. Please do not use this repo as it can be droped any time.
 
